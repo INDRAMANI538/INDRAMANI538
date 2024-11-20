@@ -41,6 +41,13 @@ I'm a **full-stack developer** with a passion for crafting **innovative solution
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INDRAMANI538&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://badges.pufler.dev/visits/INDRAMANI538/INDRAMANI538" alt="Visitors Badge"/>
+  <img src="https://badges.pufler.dev/years/INDRAMANI538" alt="Years on GitHub Badge"/>
+  <img src="https://badges.pufler.dev/repos/INDRAMANI538" alt="Public Repos Badge"/>
+</p>
+
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=INDRAMANI538&style=flat-square&color=brightgreen" alt="Profile Views" />
 </p>
