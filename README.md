@@ -41,12 +41,6 @@ I'm a **full-stack developer** with a passion for crafting **innovative solution
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INDRAMANI538&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
-
-<p align="center">
-  <img src="https://github.com/INDRAMANI538/INDRAMANI538/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=INDRAMANI538&style=flat-square&color=brightgreen" alt="Profile Views" />
 </p>
