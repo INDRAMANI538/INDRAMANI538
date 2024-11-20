@@ -58,9 +58,9 @@ I'm a **full-stack developer** with a passion for crafting **innovative solution
 ## 🌌 Let's Connect  
 I'm always excited to discuss **tech, innovation**, and **collaboration**.  
 
-- 💼 **[LinkedIn](https://linkedin.com/in/yourprofile)**  
-- 🌟 **[Portfolio](https://yourportfolio.com)**  
-- 🐦 **[Twitter](https://twitter.com/yourhandle)**  
+- 💼 **[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/indramani-singh-59b85a185/))**  
+- 🌟 **[Portfolio](https://indramaniportfolio.netlify.app)**  
+- 🐦 **[Twitter](https://twitter.com/indramani538)**  
 
 ---
 
