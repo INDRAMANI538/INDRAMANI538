@@ -65,15 +65,10 @@ const indramani = {
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=INDRAMANI538&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=INDRAMANI538&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INDRAMANI538&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=INDRAMANI538&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </p>
 
 ---
@@ -91,14 +86,15 @@ const indramani = {
 
 ## 💡 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/INDRAMANI538/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=INDRAMANI538&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/INDRAMANI538/chatingapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=INDRAMANI538&repo=chatingapp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Chatting App" />
-  </a>
-</p>
+### 🎨 Portfolio
+A modern, responsive portfolio website showcasing my work and skills.
+- **Tech Stack:** HTML, CSS, JavaScript
+- **[View Project →](https://github.com/INDRAMANI538/Portfolio)**
+
+### 💬 Chatting App
+Real-time chat application with modern UI and seamless messaging.
+- **Tech Stack:** Node.js, Socket.io, MongoDB
+- **[View Project →](https://github.com/INDRAMANI538/chatingapp)**
 
 ---
 
@@ -110,7 +106,7 @@ const indramani = {
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=INDRAMANI538&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" />
