@@ -73,17 +73,6 @@ const indramani = {
 
 ---
 
-## 🚀 Current Focus Areas
-
-| 🌐 Web Development | 🤖 AI & Automation |
-|-------------------|-------------------|
-| Building responsive, scalable web apps | Machine Learning integration |
-| Exploring modern frameworks & libraries | Robotics & IoT projects |
-| Performance optimization techniques | Intelligent automation systems |
-| Progressive Web Applications (PWA) | Natural Language Processing |
-
----
-
 ## 💡 Featured Projects
 
 ### 🎨 Portfolio
@@ -95,14 +84,6 @@ A modern, responsive portfolio website showcasing my work and skills.
 Real-time chat application with modern UI and seamless messaging.
 - **Tech Stack:** Node.js, Socket.io, MongoDB
 - **[View Project →](https://github.com/INDRAMANI538/chatingapp)**
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=INDRAMANI538&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
 
 ---
 
